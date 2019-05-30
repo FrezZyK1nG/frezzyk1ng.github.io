@@ -36,7 +36,10 @@ nav ul li a {
    font-family: Arial;
    text-decoration: none;
    display: block;
- }
- navbar {
-	 color:red;
- }	 
+ } 
+.header-img {
+  width: 100%;
+  height: 250px;
+  background: url(cover.jpg);
+  background-size: cover;
+}
