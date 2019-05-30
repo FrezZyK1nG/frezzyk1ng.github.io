@@ -13,3 +13,7 @@ p {
 h3 {
 	color: yellow;
 }
+.header {
+	background-color: black;
+	padding: 20px;
+	text-align: center;
