@@ -5,10 +5,7 @@ html,body {
     -o-background-size: cover;      /* Opera*/
     background-size: cover;         /* Generic*/
 }
-p {
-   color: red;
-   font-size:300%;
-   text-align: center;
+
 }
 h3 {
 	color: yellow;
@@ -55,4 +52,12 @@ footer {
 footer a {
 	text-decoration: none;
 	color: white;
+	padding: 10px;
+}	
+form {
+	padding: 50px;
+}
+.issue {
+	color: red;
+	font-size: 30;
 }	
